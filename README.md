@@ -33,7 +33,7 @@ I specialize in building scalable web applications with the **MERN stack** while
 ![React](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,vite)
 
 ### 🧠 Backend & Systems
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,c,cpp,postman)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,c,postman)
 
 ### ⚒ Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,n8n)
