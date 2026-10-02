@@ -18,9 +18,9 @@ I'm a **Full-Stack Developer** from Morocco 🇲🇦, currently based in Spain �
 
 I specialize in building scalable web applications with the **MERN stack** while diving deep into systems programming, algorithms, and low-level development.
 
-- 🎓 **Currently:** Student at **42 Málaga** (Software Engineering & C/C++)
+- 🎓 **Currently:** Student at **42 Málaga** (Software Engineering & C )
 - 🔭 **Working on:** [`SmartLead AI Automator`](https://github.com/ABDELKRIM-ELJAMIY) & [`Construction Project Manager`](https://github.com/ABDELKRIM-ELJAMIY/Application-de-Gestion-de-Projets-de-Construction.git)
-- 🌱 **Learning:** Systems Architecture, C/C++, Microservices & Cloud
+- 🌱 **Learning:** Systems Architecture, C , Microservices & Cloud
 - 💬 **Ask me about:** React, Node.js, REST APIs, MongoDB, JWT & Workflow Automation
 - 📫 **Contact:** `eljamiiabdelkarim@gmail.com`
 - 🎯 **Goal:** Build high-impact web products and contribute to open-source software
